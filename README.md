@@ -1,1 +1,1 @@
-# MalariaCellsCNNs
+Malaria Cells Classification using CNNs# MalariaCellsCNNs
